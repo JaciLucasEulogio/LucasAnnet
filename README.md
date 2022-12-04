@@ -1,5 +1,5 @@
 # Hola, mi nombre es Jaci Lucas ✨
-###Estudiante de Ingeniería de Sistemas e Informática.
+### Estudiante de Ingeniería de Sistemas e Informática.
 
  Orientada a trabajo en creación y administración de bases de datos. Actualmente aprendiendo full stack web development. Con ganas de seguir aprendido y deseos de desarrollarme profesionalmente en el área de cloud computing y ciberseguridad.
 
